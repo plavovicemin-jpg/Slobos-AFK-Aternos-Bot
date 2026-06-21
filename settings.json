@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "BejBej",
   "bot-account": {
     "username": "Amer",
     "password": "",
@@ -29,11 +29,14 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 450,
       "messages": [
-        "Amerrrrrr",
-        "Amer cmar",
-        "Amer gurda"
+        "Amer Gurda",
+        "الموقع تحت الصيانة",
+        "ترجو منكم الادارة اللعب بنظافة لمتعة وتحدي اكبر",
+        "ادارة سيرفر فن السيف تتمنى لكم لعب ممتع",
+        "الغش يعرضك لعقوبات قد تصل الى التبنيد الفوري وبدون نقاش",
+        "يرجى منكم عدم البناء امام السبون وعدم التخريب"
       ]
     },
     "chat-log": true,
@@ -85,3 +88,4 @@
     "respond": true
   }
 }
+
